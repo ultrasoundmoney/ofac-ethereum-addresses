@@ -9,6 +9,32 @@ Below is a community-maintained list of Ethereum addresses on [the OFAC SND list
 
 **Note**: Some addresses may be removed from the SND list, e.g. `0x905b63Fff465B9fFBF41DeA908CEb12478ec7601`.
 
+stats
+---
+
+| sanctioned entity | count |
+| :- | -: |
+| ANDREYEV, Anton Nikolaeyvich | 1 |
+| CHATEX | 6 |
+| GARANTEX EUROPE OU | 1 |
+| GRIMM, Matthew Simon | 2 |
+| KARASAVIDI, Dmitrii | 1 |
+| LAZARUS GROUP | 8 |
+| LIFSHITS, Artem Mikhaylovich | 2 |
+| PEIJNENBURG, Alex Adrianus Martinus | 7 |
+| POLYANIN, Yevgeniy Igorevich | 1 |
+| POTEKHIN, Danil | 1 |
+| SECONDEYE SOLUTION | 4 |
+| SOUTHFRONT | 2 |
+| SUEX OTC, S.R.O. | 4 |
+| TASK FORCE RUSICH | 2 |
+| TORNADO CASH | 91 |
+| ZIMENKOV, Jonatan | 2 |
+| **total** | **134** | 
+
+addresses
+---
+
 [2020-09-10](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200910)
  * `0x8576acc5c05d6ce88f4e49bf65bdf0c62f91353c`—ANDREYEV, Anton Nikolaeyvich
  * `0x901bb9583b24d97e995513c6778dc6888ab6870e`—LIFSHITS, Artem Mikhaylovich
