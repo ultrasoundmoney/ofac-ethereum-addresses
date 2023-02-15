@@ -1,13 +1,13 @@
 Ethereum addresses added to the OFAC SDN list
 ===
 
-Below is a community-maintained list of Ethereum addresses on [the OFAC SDN list](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists), grouped by when they were first added by the U.S. Department of the Treasury. A CSV with the data is available [here](https://github.com/ultrasoundmoney/ofac-ethereum-addresses/blob/main/data.csv).
+Below is a community-maintained list of Ethereum addresses added to [the OFAC SDN list](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists). They are grouped by when they were first added by the U.S. Department of the Treasury. The [OFAC sanctions list search](https://sanctionssearch.ofac.treas.gov/) was used to associate a name to every address.
 
 **Note**: This list may be inacurate—corrections are welcome!
 
-**Note**: The [OFAC sanctions list search](https://sanctionssearch.ofac.treas.gov/) was used to associate a name to every address.
+**Note**: A CSV with the data is available [here](https://github.com/ultrasoundmoney/ofac-ethereum-addresses/blob/main/data.csv).
 
-**Note**: Some addresses may be removed from the SND list, e.g. `0x905b63fff465b9ffbf41dea908ceb12478ec7601`.
+**Note**: Some addresses may have been removed from the SND list, e.g. `0x905b63fff465b9ffbf41dea908ceb12478ec7601`.
 
 stats
 ---
