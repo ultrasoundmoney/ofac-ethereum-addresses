@@ -12,6 +12,8 @@ Below is a community-maintained list of Ethereum addresses on [the OFAC SDN list
 stats
 ---
 
+16 entities have been sanctioned across 15 OFAC SDN list updates.
+
 | sanctioned entity | count |
 | :- | -: |
 | ANDREYEV, Anton Nikolaeyvich | 1 |
