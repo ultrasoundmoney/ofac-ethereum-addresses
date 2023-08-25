@@ -32,6 +32,7 @@ stats
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
 | ZIMENKOV, Jonatan | 2 |
+| SEMENOV, Roman | 8 |
 | **total** | **134** | 
 
 addresses
@@ -198,3 +199,13 @@ addresses
 
 [2023-02-01](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20230201)
  * `0x39d908dac893cbcb53cc86e0ecc369aa4def1a29`—ZIMENKOV, Jonatan
+
+[2023-08-23](https://ofac.treasury.gov/recent-actions/20230823)
+* `0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193`—SEMENOV, Roman
+* `0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2`—SEMENOV, Roman
+* `0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f`—SEMENOV, Roman
+* `0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921`—SEMENOV, Roman
+* `0x797d7ae72ebddcdea2a346c1834e04d1f8df102b`—SEMENOV, Roman
+* `0x931546D9e66836AbF687d2bc64B30407bAc8C568`—SEMENOV, Roman
+* `0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93`—SEMENOV, Roman
+* `0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e`—SEMENOV, Roman
