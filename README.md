@@ -1,7 +1,7 @@
 Ethereum addresses added to the OFAC SDN list
 ===
 
-Below is a community-maintained list of Ethereum addresses added to [the OFAC SDN list](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists). They are grouped by when they were first added by the U.S. Department of the Treasury. The [OFAC sanctions list search](https://sanctionssearch.ofac.treas.gov/) was used to associate a name to every address.
+Below is a community-maintained list of Ethereum addresses added to [the OFAC SDN list](https://ofac.treasury.gov/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists). They are grouped by when they were first added by the U.S. Department of the Treasury. The [OFAC sanctions list search](https://sanctionssearch.ofac.treas.gov/) was used to associate a name to every address.
 
 **Note**: This list may be inacurate—corrections are welcome!
 
@@ -12,7 +12,7 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-17 entities have been sanctioned across 16 OFAC SDN list updates.
+18 entities have been sanctioned across 17 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
@@ -27,40 +27,41 @@ stats
 | POLYANIN, Yevgeniy Igorevich | 1 |
 | POTEKHIN, Danil | 1 |
 | SECONDEYE SOLUTION | 4 |
+| SIM, Hyon Sop | 1 |
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
 | ZIMENKOV, Jonatan | 2 |
 | SEMENOV, Roman | 8 |
-| **total** | **134** | 
+| **total** | **135** | 
 
 addresses
 ---
 
-[2020-09-10](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200910)
+[2020-09-10](https://ofac.treasury.gov/recent-actions/20200910)
  * `0x8576acc5c05d6ce88f4e49bf65bdf0c62f91353c`—ANDREYEV, Anton Nikolaeyvich
  * `0x901bb9583b24d97e995513c6778dc6888ab6870e`—LIFSHITS, Artem Mikhaylovich
  * `0xa7e5d5a720f06526557c513402f2e6b5fa20b008`—LIFSHITS, Artem Mikhaylovich
 
-[2020-09-16](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20200916)
+[2020-09-16](https://ofac.treasury.gov/recent-actions/20200916)
  * `0xd882cfc20f52f2599d84b8e8d58c7fb62cfe344b`—KARASAVIDI, Dmitrii
  * `0x7f367cc41522ce07553e823bf3be79a889debe1b`—POTEKHIN, Danil
 
-[2021-04-15](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20210415)
+[2021-04-15](https://ofac.treasury.gov/recent-actions/20210415)
  * `0x1da5821544e25c636c1417ba96ade4cf6d2f9b5a`—SECONDEYE SOLUTION
  * `0x7db418b5d567a4e0e8c59ad71be1fce48f3e6107`—SECONDEYE SOLUTION
  * `0x72a5843cc08275c8171e582972aa4fda8c397b2a`—SECONDEYE SOLUTION
  * `0x7f19720a857f834887fc9a7bc0a0fbe7fc7f8102`—SECONDEYE SOLUTION
  * `0x9f4cda013e354b8fc285bf4b9a60460cee7f7ea9`—SOUTHFRONT
 
-[2021-09-21](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20210921)
+[2021-09-21](https://ofac.treasury.gov/recent-actions/20210921)
  * `0x2f389ce8bd8ff92de3402ffce4691d17fc4f6535`—SUEX OTC, S.R.O.
  * `0x19aa5fe80d33a56d56c78e82ea5e50e5d80b4dff`—SUEX OTC, S.R.O.
  * `0xe7aa314c77f4233c18c6cc84384a9247c0cf367b`—SUEX OTC, S.R.O.
  * `0x308ed4b7b49797e1a98d3818bff6fe5385410370`—SUEX OTC, S.R.O.
 
-[2021-11-08](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20211108)
+[2021-11-08](https://ofac.treasury.gov/recent-actions/20211108)
  * `0xfec8a60023265364d066a1212fde3930f6ae8da7`—POLYANIN, Yevgeniy Igorevich
  * `0x67d40EE1A85bf4a4Bb7Ffae16De985e8427B6b45`—CHATEX
  * `0x6f1ca141a28907f78ebaa64fb83a9088b02a8352`—CHATEX
@@ -70,24 +71,24 @@ addresses
  * `0xc455f7fd3e0e12afd51fba5c106909934d8a0e4a`—CHATEX
  * `0x3cbded43efdaf0fc77b9c55f6fc9988fcc9b757d`—SOUTHFRONT
 
-[2022-04-05](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220405)
+[2022-04-05](https://ofac.treasury.gov/recent-actions/20220405)
  * `0x7ff9cfad3877f21d41da833e2f775db0569ee3d9`—GARANTEX EUROPE OU
 
-[2022-04-14](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220414)
+[2022-04-14](https://ofac.treasury.gov/recent-actions/20220414)
  * `0x098b716b8aaf21512996dc57eb0615e2383e2f96`—LAZARUS GROUP
 
-[2022-04-22](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220422)
+[2022-04-22](https://ofac.treasury.gov/recent-actions/20220422)
  * `0xa0e1c89ef1a489c9c7de96311ed5ce5d32c20e4b`—LAZARUS GROUP
  * `0x3cffd56b47b7b41c56258d9c7731abadc360e073`—LAZARUS GROUP
  * `0x53b6936513e738f44fb50d2b9476730c0ab3bfc1`—LAZARUS GROUP
 
-[2022-05-06](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220506)
+[2022-05-06](https://ofac.treasury.gov/recent-actions/20220506)
  * `0x35fb6f6db4fb05e6a4ce86f2c93691425626d4b1`—LAZARUS GROUP
  * `0xf7b31119c2682c88d88d455dbb9d5932c65cf1be`—LAZARUS GROUP
  * `0x3e37627deaa754090fbfbb8bd226c1ce66d255e9`—LAZARUS GROUP
  * `0x08723392ed15743cc38513c4925f5e6be5c17243`—LAZARUS GROUP
 
-[2022-08-08](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808)
+[2022-08-08](https://ofac.treasury.gov/recent-actions/20220808)
  * `0x8589427373d6d84e98730d7795d8f6f8731fda16`—TORNADO CASH
  * `0x722122df12d4e14e13ac3b6895a86e84145b6967`—TORNADO CASH
  * `0xdd4c48c0b24039969fc16d1cdf626eab821d3384`—TORNADO CASH
@@ -127,11 +128,11 @@ addresses
  * `0x03893a7c7463ae47d46bc7f091665f1893656003`—TORNADO CASH
  * `0xca0840578f57fe71599d29375e16783424023357`—TORNADO CASH
 
-[2022-09-15](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220915)
+[2022-09-15](https://ofac.treasury.gov/recent-actions/20220915)
  * `0xc2a3829f459b3edd87791c74cd45402ba0a20be3`—TASK FORCE RUSICH
  * `0x3ad9db589d201a710ed237c829c7860ba86510fc`—TASK FORCE RUSICH
 
-[2022-11-08](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20221108)
+[2022-11-08](https://ofac.treasury.gov/recent-actions/20221108)
  * `0x3aac1cc67c2ec5db4ea850957b967ba153ad6279`—TORNADO CASH
  * `0x76d85b4c0fc497eecc38902397ac608000a06607`—TORNADO CASH
  * `0x0e3a09dda6b20afbb34ac7cd4a6881493f3e7bf7`—TORNADO CASH
@@ -186,7 +187,7 @@ addresses
  * `0x179f48c78f57a3a78f0608cc9197b8972921d1d2`—TORNADO CASH
  * `0xffbac21a641dcfe4552920138d90f3638b3c9fba`—TORNADO CASH
 
-[2022-11-09](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20221109)
+[2022-11-09](https://ofac.treasury.gov/recent-actions/20221109)
  * `0xd0975b32cea532eadddfc9c60481976e39db3472`—GRIMM, Matthew Simon
  * `0x1967d8af5bd86a497fb3dd7899a020e47560daaf`—GRIMM, Matthew Simon
  * `0x83e5bc4ffa856bb84bb88581f5dd62a433a25e0d`—PEIJNENBURG, Alex Adrianus Martinus
@@ -197,15 +198,18 @@ addresses
  * `0x5A14E72060c11313E38738009254a90968F58f51`—PEIJNENBURG, Alex Adrianus Martinus
  * `0xEFE301d259F525cA1ba74A7977b80D5b060B3ccA`—PEIJNENBURG, Alex Adrianus Martinus
 
-[2023-02-01](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20230201)
+[2023-02-01](https://ofac.treasury.gov/recent-actions/20230201)
  * `0x39d908dac893cbcb53cc86e0ecc369aa4def1a29`—ZIMENKOV, Jonatan
 
+[2023-04-24](https://ofac.treasury.gov/recent-actions/20230424)
+ * `0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c`—SIM, Hyon Sop
+
 [2023-08-23](https://ofac.treasury.gov/recent-actions/20230823)
-* `0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193`—SEMENOV, Roman
-* `0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2`—SEMENOV, Roman
-* `0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f`—SEMENOV, Roman
-* `0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921`—SEMENOV, Roman
-* `0x797d7ae72ebddcdea2a346c1834e04d1f8df102b`—SEMENOV, Roman
-* `0x931546D9e66836AbF687d2bc64B30407bAc8C568`—SEMENOV, Roman
-* `0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93`—SEMENOV, Roman
-* `0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e`—SEMENOV, Roman
+ * `0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193`—SEMENOV, Roman
+ * `0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2`—SEMENOV, Roman
+ * `0x5a7a51bfb49f190e5a6060a5bc6052ac14a3b59f`—SEMENOV, Roman
+ * `0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921`—SEMENOV, Roman
+ * `0x797d7ae72ebddcdea2a346c1834e04d1f8df102b`—SEMENOV, Roman
+ * `0x931546D9e66836AbF687d2bc64B30407bAc8C568`—SEMENOV, Roman
+ * `0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93`—SEMENOV, Roman
+ * `0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e`—SEMENOV, Roman
