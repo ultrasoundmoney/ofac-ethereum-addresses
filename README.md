@@ -27,13 +27,13 @@ stats
 | POLYANIN, Yevgeniy Igorevich | 1 |
 | POTEKHIN, Danil | 1 |
 | SECONDEYE SOLUTION | 4 |
+| SEMENOV, Roman | 8 |
 | SIM, Hyon Sop | 1 |
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
 | ZIMENKOV, Jonatan | 2 |
-| SEMENOV, Roman | 8 |
 | **total** | **135** | 
 
 addresses
