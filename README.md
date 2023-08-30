@@ -9,10 +9,12 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 
 **Note**: Some addresses may have been removed from the SND list, e.g. `0x905b63fff465b9ffbf41dea908ceb12478ec7601`.
 
+**Note**: Eden keeps track of OFAC addresses onchain [here](https://etherscan.io/address/0x97044531D0fD5B84438499A49629488105Dc58e6).
+
 stats
 ---
 
-18 entities have been sanctioned across 17 OFAC SDN list updates.
+19 entities have been sanctioned across 18 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
@@ -21,6 +23,7 @@ stats
 | GARANTEX EUROPE OU | 1 |
 | GRIMM, Matthew Simon | 2 |
 | KARASAVIDI, Dmitrii | 1 |
+| KIM, Sang Man | 2 |
 | LAZARUS GROUP | 8 |
 | LIFSHITS, Artem Mikhaylovich | 2 |
 | PEIJNENBURG, Alex Adrianus Martinus | 7 |
@@ -34,7 +37,7 @@ stats
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
 | ZIMENKOV, Jonatan | 2 |
-| **total** | **135** | 
+| **total** | **137** | 
 
 addresses
 ---
@@ -204,6 +207,10 @@ addresses
 [2023-04-24](https://ofac.treasury.gov/recent-actions/20230424)
  * `0x4f47bc496083c727c5fbe3ce9cdf2b0f6496270c`—SIM, Hyon Sop
 
+[2023-05-23](https://ofac.treasury.gov/recent-actions/20230523)
+ * `0x97b1043abd9e6fc31681635166d430a458d14f9c`—KIM, Sang Man
+ * `0xb6f5ec1a0a9cd1526536d3f0426c429529471f40`—KIM, Sang Man
+
 [2023-08-23](https://ofac.treasury.gov/recent-actions/20230823)
  * `0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193`—SEMENOV, Roman
  * `0x5f48c2a71b2cc96e3f0ccae4e39318ff0dc375b2`—SEMENOV, Roman
@@ -211,5 +218,6 @@ addresses
  * `0xed6e0a7e4ac94d976eebfb82ccf777a3c6bad921`—SEMENOV, Roman
  * `0x797d7ae72ebddcdea2a346c1834e04d1f8df102b`—SEMENOV, Roman
  * `0x931546D9e66836AbF687d2bc64B30407bAc8C568`—SEMENOV, Roman
+
  * `0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93`—SEMENOV, Roman
  * `0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e`—SEMENOV, Roman
