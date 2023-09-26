@@ -14,7 +14,7 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-20 entities have been sanctioned across 19 OFAC SDN list updates.
+21 entities have been sanctioned across 20 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
@@ -23,6 +23,7 @@ stats
 | GARANTEX EUROPE OU | 1 |
 | GRIMM, Matthew Simon | 2 |
 | HANAFIN, John Desmond | 1 |
+| JIMENEZ CASTRO, Mario Alberto | 1 |
 | KARASAVIDI, Dmitrii | 1 |
 | KIM, Sang Man | 2 |
 | LAZARUS GROUP | 8 |
@@ -38,7 +39,7 @@ stats
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
 | ZIMENKOV, Jonatan | 2 |
-| **total** | **138** | 
+| **total** | **139** | 
 
 addresses
 ---
@@ -224,3 +225,6 @@ addresses
  * `0x931546D9e66836AbF687d2bc64B30407bAc8C568`—SEMENOV, Roman
  * `0x43fa21d92141BA9db43052492E0DeEE5aa5f0A93`—SEMENOV, Roman
  * `0x6be0ae71e6c41f2f9d0d1a3b8d0f75e6f6a0b46e`—SEMENOV, Roman
+
+[2023-09-26](https://ofac.treasury.gov/recent-actions/20230926)
+ * `0x9c2bc757b66f24d60f016b6237f8cdd414a879fa`—JIMENEZ CASTRO, Mario Alberto
