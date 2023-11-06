@@ -14,7 +14,7 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-25 entities have been sanctioned across 21 OFAC SDN list updates.
+25 entities have been sanctioned across 20 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
