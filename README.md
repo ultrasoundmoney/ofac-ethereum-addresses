@@ -14,7 +14,7 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-21 entities have been sanctioned across 20 OFAC SDN list updates.
+25 entities have been sanctioned across 21 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
@@ -33,13 +33,17 @@ stats
 | POTEKHIN, Danil | 1 |
 | SECONDEYE SOLUTION | 4 |
 | SEMENOV, Roman | 8 |
+| SHEN, Xingbiao | 1 |
 | SIM, Hyon Sop | 1 |
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
 | TORNADO CASH | 91 |
+| VALERIAN LABS, INC. | 1 |
+| WANG, Mingming | 1 |
+| ZHANG, Wei | 1 |
 | ZIMENKOV, Jonatan | 2 |
-| **total** | **139** | 
+| **total** | **143** | 
 
 addresses
 ---
@@ -228,3 +232,9 @@ addresses
 
 [2023-09-26](https://ofac.treasury.gov/recent-actions/20230926)
  * `0x9c2bc757b66f24d60f016b6237f8cdd414a879fa`—JIMENEZ CASTRO, Mario Alberto
+
+[2023-10-03](https://ofac.treasury.gov/recent-actions/20231003)
+ * `0x530a64c0ce595026a4a556b703644228179e2d57`—SHEN, Xingbiao
+ * `0xfac583c0cf07ea434052c49115a4682172ab6b4f`—WANG, Mingming
+ * `0x961c5be54a2ffc17cf4cb021d863c42dacd47fc1`—ZHANG, Wei
+ * `0x983a81ca6fb1e441266d2fbcb7d8e530ac2e05a2`—VALERIAN LABS, INC.
