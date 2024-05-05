@@ -14,20 +14,23 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-25 entities have been sanctioned across 20 OFAC SDN list updates.
+28 entities have been sanctioned across 23 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
 | ANDREYEV, Anton Nikolaeyvich | 1 |
 | CHATEX | 6 |
 | GARANTEX EUROPE OU | 1 |
+| GAZA NOW | 3 |
 | GRIMM, Matthew Simon | 2 |
 | HANAFIN, John Desmond | 1 |
 | JIMENEZ CASTRO, Mario Alberto | 1 |
 | KARASAVIDI, Dmitrii | 1 |
 | KIM, Sang Man | 2 |
+| KONDRATIEV, Ivan Gennadievich | 1 |
 | LAZARUS GROUP | 8 |
 | LIFSHITS, Artem Mikhaylovich | 2 |
+| OKO DESIGN BUREAU | 1 |
 | PEIJNENBURG, Alex Adrianus Martinus | 7 |
 | POLYANIN, Yevgeniy Igorevich | 1 |
 | POTEKHIN, Danil | 1 |
@@ -43,7 +46,7 @@ stats
 | WANG, Mingming | 1 |
 | ZHANG, Wei | 1 |
 | ZIMENKOV, Jonatan | 2 |
-| **total** | **151** | 
+| **total** | **156** | 
 
 addresses
 ---
@@ -238,3 +241,16 @@ addresses
  * `0xfac583c0cf07ea434052c49115a4682172ab6b4f`—WANG, Mingming
  * `0x961c5be54a2ffc17cf4cb021d863c42dacd47fc1`—ZHANG, Wei
  * `0x983a81ca6fb1e441266d2fbcb7d8e530ac2e05a2`—VALERIAN LABS, INC.
+
+[2024-01-11](https://ofac.treasury.gov/recent-actions/20240111)
+
+[2024-02-20](https://ofac.treasury.gov/recent-actions/20240220)
+ * `0xf3701f445b6bdafedbca97d1e477357839e4120d`—KONDRATIEV, Ivan Gennadievich
+
+[2024-03-27](https://ofac.treasury.gov/recent-actions/20240327)
+ * `0xe950dc316b836e4eefb8308bf32bf7c72a1358ff`—GAZA NOW
+ * `0x21b8d56bda776bbe68655a16895afd96f5534fed`—GAZA NOW
+ * `0x175d44451403edf28469df03a9280c1197adb92c`—GAZA NOW
+
+[2024-05-01](https://ofac.treasury.gov/recent-actions/20240501)
+ * `0x19f8f2b0915daa12a3f5c9cf01df9e24d53794f7`—OKO DESIGN BUREAU
