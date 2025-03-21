@@ -35,13 +35,12 @@ stats
 | POLYANIN, Yevgeniy Igorevich | 1 |
 | POTEKHIN, Danil | 1 |
 | SECONDEYE SOLUTION | 4 |
-| SEMENOV, Roman | 8 |
 | SHEN, Xingbiao | 1 |
 | SIM, Hyon Sop | 1 |
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
-| TORNADO CASH | 91 |
+| TORNADO CASH | 1 |
 | VALERIAN LABS, INC. | 1 |
 | WANG, Mingming | 1 |
 | ZHANG, Wei | 1 |
