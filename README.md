@@ -41,7 +41,7 @@ stats
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
-| TORNADO CASH | 91 |
+| TORNADO CASH | 1 |
 | VALERIAN LABS, INC. | 1 |
 | WANG, Mingming | 1 |
 | ZHANG, Wei | 1 |
