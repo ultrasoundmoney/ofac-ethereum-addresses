@@ -44,6 +44,7 @@ stats
 | TORNADO CASH | 91 |
 | VALERIAN LABS, INC. | 1 |
 | WANG, Mingming | 1 |
+| WANG, Yunhe| 1|
 | ZHANG, Wei | 1 |
 | ZIMENKOV, Jonatan | 2 |
 | **total** | **156** | 
@@ -254,3 +255,6 @@ addresses
 
 [2024-05-01](https://ofac.treasury.gov/recent-actions/20240501)
  * `0x19f8f2b0915daa12a3f5c9cf01df9e24d53794f7`—OKO DESIGN BUREAU
+
+[2024-05-28](https://ofac.treasury.gov/recent-actions/20240528_33)
+* `0xe1d865c3d669dcc8c57c8d023140cb204e672ee4`-WANG, Yunhe
