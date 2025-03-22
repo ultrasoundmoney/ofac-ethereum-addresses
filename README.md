@@ -7,14 +7,12 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 
 **Note**: A CSV with the data is available [here](https://github.com/ultrasoundmoney/ofac-ethereum-addresses/blob/main/data.csv).
 
-**Note**: For some addresses it is not clear if they have been removed from the SND list, e.g. `0x905b63fff465b9ffbf41dea908ceb12478ec7601`.
-
 **Note**: Eden keeps track of OFAC addresses onchain [here](https://etherscan.io/address/0x97044531D0fD5B84438499A49629488105Dc58e6).
 
 stats
 ---
 
-28 entities have been sanctioned across 23 OFAC SDN list updates.
+26 entities are currently sanctioned. One entity (TORNADAO CASH) is no longer sanctioned. There have been 26 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
@@ -41,13 +39,12 @@ stats
 | SOUTHFRONT | 2 |
 | SUEX OTC, S.R.O. | 4 |
 | TASK FORCE RUSICH | 2 |
-| TORNADO CASH | 1 |
 | VALERIAN LABS, INC. | 1 |
 | WANG, Mingming | 1 |
 | WANG, Yunhe| 1|
 | ZHANG, Wei | 1 |
-| ZIMENKOV, Jonatan | 2 |
-| **total** | **156** | 
+| ZIMENKOV, Jonatan | 1 |
+| **total** | **66** | 
 
 addresses
 ---
