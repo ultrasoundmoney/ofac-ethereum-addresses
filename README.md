@@ -12,7 +12,7 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-26 entities are currently sanctioned. One entity (TORNADAO CASH) is no longer sanctioned. There have been 26 OFAC SDN list updates.
+29 entities are currently sanctioned. One entity (TORNADAO CASH) is no longer sanctioned. There have been 27 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
