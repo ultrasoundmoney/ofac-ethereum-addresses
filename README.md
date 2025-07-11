@@ -12,12 +12,13 @@ Below is a community-maintained list of Ethereum addresses added to [the OFAC SD
 stats
 ---
 
-26 entities are currently sanctioned. One entity (TORNADAO CASH) is no longer sanctioned. There have been 26 OFAC SDN list updates.
+29 entities are currently sanctioned. One entity (TORNADAO CASH) is no longer sanctioned. There have been 27 OFAC SDN list updates.
 
 | sanctioned entity | count |
 | :- | -: |
 | ANDREYEV, Anton Nikolaeyvich | 1 |
 | CHATEX | 6 |
+| FUNNULL TECHNOLOGY INC  | 1 |
 | GARANTEX EUROPE OU | 1 |
 | GAZA NOW | 3 |
 | GRIMM, Matthew Simon | 2 |
@@ -44,7 +45,7 @@ stats
 | WANG, Yunhe| 1|
 | ZHANG, Wei | 1 |
 | ZIMENKOV, Jonatan | 1 |
-| **total** | **66** | 
+| **total** | **67** |
 
 addresses
 ---
@@ -347,3 +348,6 @@ addresses
  * `0x2f50508a8a3d323b91336fa3ea6ae50e55f32185`—TORNADO CASH
  * `0x179f48c78f57a3a78f0608cc9197b8972921d1d2`—TORNADO CASH
  * `0xffbac21a641dcfe4552920138d90f3638b3c9fba`—TORNADO CASH
+
+[2025-05-29](https://ofac.treasury.gov/recent-actions/20250529)
+* `0xd5ed34b52ac4ab84d8fa8a231a3218bbf01ed510`—FUNNULL TECHNOLOGY INC
