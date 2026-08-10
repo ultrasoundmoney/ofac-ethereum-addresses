@@ -2,13 +2,9 @@ Ethereum addresses added to the OFAC SDN list
 ===
 
 > [!IMPORTANT]
-> **This repository is archived and no longer maintained.**
->
-> The ultra sound relay now filters against a dynamically updated list, generated automatically from the latest OFAC SDN data (`SDN_ENHANCED.ZIP`) and served live by the relay data api:
+> The ultra sound relay no longer filters from this list. The relay's list is generated automatically from the latest OFAC SDN data and served live at:
 >
 > https://relay-analytics.ultrasound.money/ultrasound/v1/data/disallow
->
-> It returns a json array of execution addresses. See [relay-docs/proposers/ofac.md](https://github.com/ultrasoundmoney/relay-docs/blob/main/proposers/ofac.md) for details.
 
 This repository contains both the list of addresses and a python script to automatically generate and update it. Community-maintained list of Ethereum addresses added to [the OFAC SDN list](https://sanctionslist.ofac.treas.gov/Home/SdnList) can be found below.
 
